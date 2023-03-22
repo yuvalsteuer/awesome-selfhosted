@@ -1716,6 +1716,7 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 - [Whoogle](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 - [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Source Code](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java`
 - [ZincSearch](https://zincsearch.com) - A lightweight alternative to elasticsearch that requires minimal resources, written in Go. ([Demo](https://github.com/zinclabs/zinc#playground-server), [Source Code](https://github.com/zinclabs/zinc)) `Apache-2.0` `Go`
+- [Gerev](https://gerev.ai) - AI powered workplace search engine, for searching through internal conversations, docs, pages, knowledge bases, etc... written in Python. [Source Code](https://github.com/gerevai/gerev)) `AGPL-3` `Python`
 
 
 ### Self-hosting Solutions
